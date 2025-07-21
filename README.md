@@ -8,7 +8,7 @@ Welcome to the Hyland Tech Outreach Informational Session!
 [Click here to access the PowerPoint presentation for the session.](https://hylandsw-my.sharepoint.com/:p:/g/personal/techoutreachteam_hyland_com/EfkV67b11PFPmrb39PrNG2kBO0beClMaVHOd_JOxgG8pSg?e=zRWEKY)
 
 ## Next Steps
-If you are interested in helping with any upcoming Tech Outreach programs, you can sign up using our [Excel workbook](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EaCTNmHqLZdFk0hB1cIIMukBCp-EOET_Q91kNYCxTix1qQ?e=yh9SRL). Follow these steps:
+If you are interested in helping with any upcoming Tech Outreach programs, you can sign up using our [Excel workbook](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/EZzU6UKrUrpMmdaXfdKNu_gBpLdsPvVEumN0UykTe8ygUg?e=FqjlUO&nav=MTVfe0QzNDY1QjgxLUE5RkItNDUzNi04QUJBLUQ3NUVEN0U4NUQwMn0). Follow these steps:
 
 1. Open the sheet (ask [Joseph](mailto:joseph.maxwell@hyland.com) for the password if you need it)
 1. Fill out your **Name** and **Email Address** on the "Volunteer Roster" tab
@@ -17,4 +17,4 @@ If you are interested in helping with any upcoming Tech Outreach programs, you c
 
 After you add your name, a member of the [Tech Outreach team](mailto:techoutreach@hyland.com) should be in touch to confirm your sign-up. We will make sure you have an up-to-date background check on file, and follow-up with important details.
 
-[Click here to access the workbook!](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EaCTNmHqLZdFk0hB1cIIMukBCp-EOET_Q91kNYCxTix1qQ?e=yh9SRL)
+[Click here to access the workbook!](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/EZzU6UKrUrpMmdaXfdKNu_gBpLdsPvVEumN0UykTe8ygUg?e=FqjlUO&nav=MTVfe0QzNDY1QjgxLUE5RkItNDUzNi04QUJBLUQ3NUVEN0U4NUQwMn0)
